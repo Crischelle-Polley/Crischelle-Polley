@@ -15,3 +15,5 @@ You can click the Preview link to take a look at your changes.
 
 I'm Crischelle Polley, a recent graduate from University of Houston - Downtown with a B.S. in Computer Science. I'm currently working on my technical interview skills and 
 polishing up my resume. This page is to show-case all the programming knowledge I've accumulated. Hope you enjoy! 👋
+
+Connect with me via LinkedIn: https://www.linkedin.com/in/crischelle-polley/
